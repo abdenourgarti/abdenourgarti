@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*JfHewXVjgsp7r3ZK.gif"/>
 
 
-- 👨‍💻 All of my projects are available at [https://abdenour-garti.vercel.app/](https://abdenour-garti.vercel.app/)
+- 👨‍💻 Some of my projects are available at [https://abdenour-garti.vercel.app/](https://abdenour-garti.vercel.app/)
 
 - 💬 Ask me about **Web development, conception**
 
